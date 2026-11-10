@@ -23,12 +23,12 @@ main.py : AI없이 순수 개발 실력 (미완성 제출)
 ### 프로그램 구조
 ```md
 사용된 클래스: 6개 
-    - Product
+    - Product(상품)
     - Discount(쿠폰: 부모)
     - RateDiscount(쿠폰: 자식1)
     - FixedDiscount(쿠폰: 자식2)
-    - Cart
-    - ShoppingMall
+    - Cart(장바구니)
+    - ShoppingMall(프로그램 메인)
 상속받은 자식 클래스:2개 
     - RateDiscount(쿠폰: 자식1)
     - FixedDiscount(쿠폰: 자식2)
