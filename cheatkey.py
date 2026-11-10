@@ -264,4 +264,4 @@ class ShoppingMall:
 if __name__ == "__main__":
     mall = ShoppingMall()
     mall.run()
-    
+

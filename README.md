@@ -1,5 +1,12 @@
 # 미니 프로젝트 발제 — 쇼핑몰 장바구니 & 할인 쿠폰
 ## AX3기 서재홍
+[연결된 레포 주소](https://github.com/mjhsyeagk3410-dot/mini_project01.git)
+파일 설명
+```md
+REAEME.md : 프로젝트를 어떻게 만들지에 대해서
+cheatkey.py : AI의 힘을 빌려서 미니 프로젝트를 푼 결과물. 아래 README.md 내용은 cheatkey.py 내용 기반으로 만들어짐
+main.py : AI없이 순수 개발 실력 (미완성 제출)
+```
 
 ### 결제 시스템 프로그램 소개
 ```md
