@@ -4,7 +4,7 @@
 파일 설명
 ```md
 REAEME.md : 프로젝트를 어떻게 만들지에 대해서
-cheatkey.py : AI의 힘을 빌려서 미니 프로젝트를 푼 결과물. 아래 README.md 내용은 cheatkey.py 내용 기반으로 만들어짐
+cheatkey.py : AI의 힘을 빌려서 미니 프로젝트를 푼 결과물. 아래 README.md 내용은 cheatkey.py 내용 기반으로 만들어짐 (작동은 되지만 직접 타이핑 친거라 오류가 많은 결과물)
 main.py : AI없이 순수 개발 실력 (미완성 제출)
 ```
 
