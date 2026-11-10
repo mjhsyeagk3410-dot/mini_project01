@@ -13,6 +13,20 @@
 3. 장바구니 및 결제 금액 계산(Cart 및 ShoppingMall 클래스)
 ```
 
+### 프로그램 구조
+```md
+사용된 클래스: 6개 
+    - Product
+    - Discount(쿠폰: 부모)
+    - RateDiscount(쿠폰: 자식1)
+    - FixedDiscount(쿠폰: 자식2)
+    - Cart
+    - ShoppingMall
+상속받은 자식 클래스:2개 
+    - RateDiscount(쿠폰: 자식1)
+    - FixedDiscount(쿠폰: 자식2)
+```
+
 ### 실행 방법
 ```md
 1. 요구 사양
